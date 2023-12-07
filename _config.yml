@@ -18,19 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shresth Garg
-name: Shresth Garg
-email: garg@g.harvard.edu
-
-google_analytics: G-HNFCEFBL9F
+title: Sophie Li
+name: Sophie Li
+email: ywl242@bu.edu
 
 # Build settings
 # theme: minima
-logo: /images/website_photo.jpg
+logo: /images/SophieLi_JM_Photo.jpg
 
 # plugins:
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 

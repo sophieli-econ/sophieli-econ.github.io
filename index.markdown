@@ -3,12 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Shresth Garg
+title: Sophie Li
 ---
+
+I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender.
+
+I am on the job market during the 2023-2024 Academic Year. My job market paper examines the effect of a woman-friendly occupation, the postmaster occupation during the early twentieth-century United States, on women's employment outcomes.
 
 I am PhD candidate in Economics at Harvard University. I will be on the job market during the 2023-2024 academic year. You can reach me at <garg@g.harvard.edu>.
 
-[[cv]](pdfs/cv.pdf)
+[[CV]](pdfs/SophieLi_CV.pdf)
+[Email]<garg@g.harvard.edu>
 
 ---
 
