@@ -6,51 +6,32 @@ layout: default
 title: Sophie Li
 ---
 
-I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender.
+I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender. You can reach me at <ywl242@bu.edu>
 
 I am on the job market during the 2023-2024 Academic Year. My job market paper examines the effect of a woman-friendly occupation, the postmaster occupation during the early twentieth-century United States, on women's employment outcomes.
 
-
 [[CV]](pdfs/SophieLi_CV.pdf)
-[Email]<ywl242@bu.edu>
 
----
+# Research
 
 ## Job Market Paper
 
-Dynamic Effects of Price Controls and Deregulation Policies: Evidence from the Indian Cement Industry.  
-(with Sagar Saxena)\
-[[pdf]](pdfs/GS_cement.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII\
+[[pdf]](pdfs/SophieLi_JMP.pdf)
 
----
+_Co-Winner of Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
-## Working Papers
 
-Distributional Effects of Indian Agricultural Interventions.  
-(with Sagar Saxena)  
-[[pdf]](pdfs/GS_agriculture.pdf)
+## Working Paper
 
-Industrial Policy Under Imperfect Competition: Evidence from Utility-Scale Solar in India.  
-(with Sagar Saxena)  
-[[pdf]](pdfs/GS_solar.pdf)
+Returns to Education for Women in the Mid-20th Century: Evidence from Compulsory Schooling Laws\ 
+[[pdf]](pdfs/SophieLi_Returns_Education.pdf)
 
----
 
-## Publications
+## Work in Progress
 
-Within Firm Supply Chains: Evidence from India.  
-(with Pulak Ghosh and Brandon Joel Tan)  
-(Journal of International Economics, 2023)  
-[[pdf]](pdfs/GGT_supply_chains.pdf)
+Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco)
 
-Intergenerational transfers: Public education and pensions with endogenous fertility.  
-(with Monisankar Bishnu, Tishara Garg, and Tridip Ray)  
-(Journal of Economic Dynamics & Control, 2023)  
-[[pdf]](pdfs/BGGR_fertility.pdf)
+Rebuilding the State: Confederate Post Offices After the Civil War
 
-Optimal intergenerational transfers: Public education and pensions.  
-(with Monisankar Bishnu, Tishara Garg, and Tridip Ray)  
-(Journal of Public Economics, 2021)  
-[[pdf]](pdfs/BGGR_ep.pdf)
-
----
+Gender Differences in Managerial Performance: Evidence from The Post Office
