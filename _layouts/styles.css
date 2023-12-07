@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font: unset;
+    color: #000000;
+}
