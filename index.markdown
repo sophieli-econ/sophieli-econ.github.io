@@ -14,7 +14,7 @@ I am on the job market during the 2023-2024 Academic Year. My job market paper e
 
 [[CV]](pdfs/SophieLi_CV.pdf)
 
-[Research](./research.html)
+[Research](./research)
 
 ### Job Market Paper
 
