@@ -8,7 +8,7 @@ title: Sophie Li
 
 <br/>
 
-[Back to Homepage](./home)
+[Back to Homepage](./home.html)
 
 <br/>
 
