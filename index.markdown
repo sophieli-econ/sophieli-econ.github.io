@@ -6,9 +6,8 @@ layout: default
 title: Sophie Li
 ---
 
-<pre>
-
-</pre>
+#
+#
 
 I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender. You can reach me at <ywl242@bu.edu>.
 
@@ -31,9 +30,8 @@ I examine the effect of a woman-friendly occupation on employment by exploring a
 
 </details>
 
-<pre>
-
-</pre>
+#
+#
 
 ## Working Paper
 
@@ -46,6 +44,10 @@ Women had a similar level of schooling to men during the mid-twentieth century U
 
 </details>
 
+#
+#
+
+
 ## Work in Progress
 
 Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco)
@@ -56,6 +58,9 @@ Germ Theory at Home: The Role of Private Action in Reducing Child Mortality duri
 Did household health behaviors contribute to the epidemiological transition? In this paper, we study whether the dissemination of germ theory--which provided new methods of controlling infectious disease--enabled households to prevent child mortality. We focus on physician households, who, as a group, should have had the clearest informational shock after the availability of germ theory. Our analysis evaluates a well-cited claim that physicians' children died at similar rates to non-physicians' children before the discovery of germ theory, but not after. We use a novel measure of child mortality that follows young children over time by linking households between censuses. Leveraging this nearly century-long measure of child mortality, we find that germ theory enabled physician households to reduce child mortality by 1-2 percentage points, a 7-14% reduction. We also show that this reduction in child mortality after germ theory is unique to physician households and is not an artifact of income or education.
 
 </details>
+
+#
+#
 
 Rebuilding the State: Confederate Post Offices After the Civil War
 
