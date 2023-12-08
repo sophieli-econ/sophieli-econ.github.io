@@ -6,8 +6,11 @@ layout: default
 title: Sophie Li
 ---
 
-<br/><br/>
+<br/>
 
+[Homepage](./index)
+
+<br/>
 
 ### Job Market Paper
 
