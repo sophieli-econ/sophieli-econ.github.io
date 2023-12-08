@@ -8,16 +8,13 @@ title: Sophie Li
 
 <br/><br/>
 
-
 I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender. You can reach me at <ywl242@bu.edu>.
 
 I am on the job market during the 2023-2024 Academic Year. My job market paper examines the effect of a woman-friendly occupation, the postmaster occupation during the early twentieth-century United States, on women's employment outcomes.
 
-<br/><br/>
 [[CV]](pdfs/SophieLi_CV.pdf)
 
 # Research
-<br/><br/>
 
 ## Job Market Paper
 
@@ -32,8 +29,7 @@ I examine the effect of a woman-friendly occupation on employment by exploring a
 
 </details>
 
-#
-#
+<br/>
 
 ## Working Paper
 
@@ -46,8 +42,7 @@ Women had a similar level of schooling to men during the mid-twentieth century U
 
 </details>
 
-#
-#
+<br/>
 
 
 ## Work in Progress
@@ -61,8 +56,7 @@ Did household health behaviors contribute to the epidemiological transition? In 
 
 </details>
 
-#
-#
+<br/>
 
 Rebuilding the State: Confederate Post Offices After the Civil War
 
