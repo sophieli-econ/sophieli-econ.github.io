@@ -14,14 +14,14 @@ title: Sophie Li
 
 ### Job Market Paper
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[pdf]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf)
 
-* _Co-Winner of Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
+* _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
 <details>
-  <summary>Abstract</summary>
+  <summary>Short Summary</summary>
   
-I examine the effect of a woman-friendly occupation on employment by exploring a unique historical setting -- the postmaster occupation during the early twentieth-century United States. Unlike many occupations that established practices to prevent married women from entering, postmasters were open to married women and offered flexible work arrangements and equal pay. With a novel dataset on postmaster appointments and census linking, I show that postmasters attracted qualified women who were not gainfully employed previously. However, the postmaster occupation offered women few benefits beyond the appointed term. Taking advantage of the fact that postmasters were presidential appointees and were rarely re-appointed after the party of the president changed, I compare the 1940 outcomes of women appointed just before and after the 1933 presidential transition in a regression discontinuity design. The RD estimates suggest that women experienced a 26.7 pp. reduction in gainful employment after finishing their postmaster term. I benchmark women's estimates against men's to show that the result is unlikely driven by selection bias. Finally, I show that women postmasters were not more likely to be employed than their women neighbors who had never been postmasters, despite their work experience. The lack of benefits for women's employment beyond the appointed term is in part explained by state-level discrimination against married women working and the severity of the Great Depression.
+This paper examines the effect of a woman-friendly occupation by exploring a unique historical setting -- the postmaster occupation during the early 20th-century United States, which had many woman-friendly features unprecedented in its time. I find that although a woman-friendly occuption attracted many qualified women into the labor force, it offered few long-term benefits to women's future employment.
 
 </details>
 
@@ -29,7 +29,7 @@ I examine the effect of a woman-friendly occupation on employment by exploring a
 
 ### Working Paper
 
-Returns to Education for Women in the Mid-20th Century: Evidence from Compulsory Schooling Laws [[pdf]](pdfs/SophieLi_Returns_Education.pdf)
+Returns to Education for Women in the Mid-20th Century: Evidence from Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
 
 <details>
   <summary>Abstract</summary>
