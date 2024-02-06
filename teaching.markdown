@@ -36,7 +36,7 @@ I designed the course myself and with help from #EconTwitter. A sample syllabus 
 
 **Teaching Fellow for Introduction to Microeconomics**, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
 
-**Teaching Fellow for Empirical Economic Analysis**, Boston University, Fall 2020
+**Teaching Fellow for Empirical Economic Analysis**, Boston University, Fall 2020, Spring 2024
 
 **Teaching Assistant for Intermediate Micro Analysis**, Boston University, Fall 2023
 
