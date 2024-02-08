@@ -19,7 +19,7 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 * _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
 <details>
-  <summary>Short Summary</summary>
+  <summary>Summary</summary>
   
 This paper examines the effect of a woman-friendly occupation by exploring a unique historical setting -- the postmaster occupation during the early 20th-century United States, which had many woman-friendly features unprecedented in its time. With regression discontinuity and diff-in-diff designs, I find that although a woman-friendly occuption attracted many qualified women into the labor force, it offered few long-term benefits to women's future employment.
 
@@ -32,9 +32,9 @@ This paper examines the effect of a woman-friendly occupation by exploring a uni
 Returns to Education for Women in the Mid-20th Century: Evidence from Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
 
 <details>
-  <summary>Short Summary</summary>
+  <summary>Summary</summary>
 
-Using compulsory schooling laws as instrumental variables, this paper examines the returns to education for women in terms of their labor market and marriage market outcomes. I show that an additional year of schooling increases women's probability of gainful employment by 7.9 pp. and women's wage earnings by 15 percent. On the other hand, education increases women's probability of divorce slightly but does not affect their probability of marriage.
+Using compulsory schooling laws as instrumental variables, this paper examines the returns to education for women in terms of their labor market and marriage market outcomes. In the labor market, I show that an additional year of schooling increases women's probability of gainful employment by 7.9 pp. and women's wage earnings by 15 percent. In the marriage market, education increases women's probability of divorce slightly but does not affect their probability of marriage.
 
 </details>
 
@@ -43,10 +43,10 @@ Using compulsory schooling laws as instrumental variables, this paper examines t
 
 ### Work in Progress
 
-Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco)
+Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
 
 <details>
-  <summary>Short Summary</summary>
+  <summary>Summary</summary>
 
 We study whether the dissemination of germ theory--which provided new methods of controlling infectious disease--enabled households to prevent child mortality. Leveraging a novel measure of child mortality from 1850 to 1940, we find that germ theory enabled physician households to reduce child mortality by 7-14% relative to other households.
 
