@@ -21,7 +21,7 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 <details>
   <summary>Summary</summary>
   
-This paper examines the effect of a woman-friendly occupation by exploring a unique historical setting -- the postmaster occupation during the early 20th-century United States, which had many woman-friendly features unprecedented in its time. With regression discontinuity and diff-in-diff designs, I find that although a woman-friendly occuption attracted many qualified women into the labor force, it offered few long-term benefits to women's future employment.
+This paper examines the effect of a woman-friendly occupation by exploring a unique historical setting -- the postmaster occupation during the early 20th-century United States. With regression discontinuity and difference-in-difference designs, I find that although a woman-friendly occupation could attract many qualified women into the labor force temporarily, it might offer very few long-term benefits to women's future employment.
 
 </details>
 
