@@ -25,6 +25,7 @@ This paper examines the effect of a woman-friendly occupation by exploring a uni
 
 </details>
 
+<br/>
 
 ### Work in Progress
 
