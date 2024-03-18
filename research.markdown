@@ -14,7 +14,7 @@ title: Sophie Li
 
 ### Job Market Paper
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf) [[Slides]](pdfs/JMP_Slides.pdf)
 
 * _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
