@@ -16,7 +16,9 @@ title: Sophie Li
 
 The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf) [[Slides]](pdfs/JMP_Slides.pdf)
 
-* _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
+_IPUMS Excellence in Research Award, 2023_
+
+_Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
 <details>
   <summary>Summary</summary>
