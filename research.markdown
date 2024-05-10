@@ -12,7 +12,7 @@ title: Sophie Li
 
 <br/>
 
-### Job Market Paper
+### Working Papers
 
 The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf) [[Slides]](pdfs/JMP_Slides.pdf)
 
@@ -20,18 +20,13 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 
 * _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
 
-<details>
-  <summary>Summary</summary>
-  
-This paper examines the effect of a woman-friendly occupation by exploring a unique historical setting -- the postmaster occupation during the early 20th-century United States. With regression discontinuity and difference-in-difference designs, I find that although a woman-friendly occupation could attract many qualified women into the labor force temporarily, it might offer very few long-term benefits to women's future employment.
 
-</details>
+Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
+
 
 <br/>
 
 ### Work in Progress
-
-Returns to Education for Women in the Mid-20th Century: Evidence from Compulsory Schooling Laws [[Abstract]](pdfs/Returns_Education_Abstract.pdf)
 
 Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
 
