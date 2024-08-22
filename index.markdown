@@ -6,11 +6,9 @@ layout: default
 title: Sophie Li
 ---
 
-<br/><br/>
+<br/>
 
-I am a Ph.D. candidate in the Department of Economics at Boston University. My research fields are Economic History, Labor Economics and Economics of Gender. You can reach me at <ywl242@bu.edu>. My CV is [here](pdfs/SophieLi_CV.pdf).
-
-I will join the University of Southern Denmark as an Assistant Professor in Economic History in Fall 2024.
+I am an Assistant Professor in Economic History at the University of Southern Denmark. My research fields are Economic History, Labor Economics and Economics of Gender. My CV is [here](pdfs/SophieLi_CV_Aug2024.pdf).
 
 <br/>
 
