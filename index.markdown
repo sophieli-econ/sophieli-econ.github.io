@@ -8,7 +8,7 @@ title: Sophie Li
 
 <br/>
 
-I am an Assistant Professor in Economic History at the University of Southern Denmark. My research fields are Economic History, Labor Economics and Economics of Gender. My CV is [here](pdfs/SophieLi_CV_Aug2024.pdf).
+I am an Assistant Professor in Economic History at the University of Southern Denmark. My research fields are Economic History, Labor Economics and Economics of Gender. I hold a PhD in Economics from Boston University. My CV is [here](pdfs/SophieLi_CV_Aug2024.pdf).
 
 <br/>
 
@@ -38,14 +38,14 @@ Gender Differences in Managerial Performance: Evidence from The Post Office
 
 ### Teaching Experience
 
-**Instructor for Labor Economics**, Boston University, Spring 2022, Spring 2023
+Instructor for Labor Economics, Boston University, Spring 2022, Spring 2023
 
 * _Gitner Prize for Excellence in Teaching Undergraduates, 2023_
 
-**Teaching Fellow for Introduction to Microeconomics**, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
+Teaching Fellow for Introduction to Microeconomics, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
 
-**Teaching Fellow for Empirical Economic Analysis**, Boston University, Fall 2020, Spring 2024
+Teaching Fellow for Empirical Economic Analysis, Boston University, Fall 2020, Spring 2024
 
-**Teaching Assistant for Intermediate Micro Analysis**, Boston University, Fall 2023
+Teaching Assistant for Intermediate Micro Analysis, Boston University, Fall 2023
 
-**Teaching Assistant for Economic Institutions in Historical Perspective**, Boston University, Fall 2021
+Teaching Assistant for Economic Institutions in Historical Perspective, Boston University, Fall 2021
