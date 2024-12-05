@@ -14,7 +14,7 @@ I am an Assistant Professor in Economic History at the University of Southern De
 
 ### Working Papers
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf) [[Slides]](pdfs/JMP_Slides.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf)
 
 * _IPUMS Excellence in Research Award, 2023_
 
@@ -45,7 +45,3 @@ Instructor for Labor Economics, Boston University, Spring 2022, Spring 2023
 Teaching Fellow for Introduction to Microeconomics, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
 
 Teaching Fellow for Empirical Economic Analysis, Boston University, Fall 2020, Spring 2024
-
-Teaching Assistant for Intermediate Micro Analysis, Boston University, Fall 2023
-
-Teaching Assistant for Economic Institutions in Historical Perspective, Boston University, Fall 2021
