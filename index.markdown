@@ -8,7 +8,11 @@ title: Sophie Li
 
 <br/>
 
-I am an Assistant Professor in Economic History at the University of Southern Denmark (SDU). My research fields are Economic History, Labor Economics and Economics of Gender. I hold a PhD in Economics from Boston University. My CV is [here](pdfs/SophieLi_CV.pdf).
+I am an Assistant Professor in Economic History at the University of Southern Denmark (SDU). My research fields are Economic History, Labor Economics and Economics of Gender. I hold a Ph.D. in Economics from Boston University and a B.A. in Economics from New York University and New York University Shanghai.
+
+You can reach me at soli [at] sam.sdu.dk
+
+My CV is [here](pdfs/SophieLi_CV.pdf).
 
 <br/>
 
