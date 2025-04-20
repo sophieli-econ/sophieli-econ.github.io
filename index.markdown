@@ -8,17 +8,17 @@ title: Sophie Li
 
 <br/>
 
-I am an Assistant Professor in Economic History at the University of Southern Denmark. My research fields are Economic History, Labor Economics and Economics of Gender. I hold a PhD in Economics from Boston University. My CV is [here](pdfs/SophieLi_CV_Aug2024.pdf).
+I am an Assistant Professor in Economic History at the University of Southern Denmark (SDU). My research fields are Economic History, Labor Economics and Economics of Gender. I hold a PhD in Economics from Boston University. My CV is [here](pdfs/SophieLi_CV.pdf).
 
 <br/>
 
 ### Working Papers
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf), _Reject and Resubmit at the Journal of Economic History_
 
-* _IPUMS Excellence in Research Award, 2023_
+* IPUMS Excellence in Research Award, 2023
 
-* _Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023_
+* Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023
 
 
 Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
