@@ -14,7 +14,7 @@ I am an Assistant Professor in Economic History at the University of Southern De
 
 ### Working Papers
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII [[Draft]](pdfs/SophieLi_JMP.pdf), _Reject and Resubmit at the Journal of Economic History_
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Reject and Resubmit at the Journal of Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
 
 * IPUMS Excellence in Research Award, 2023
 
@@ -26,9 +26,9 @@ Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compu
 
 <br/>
 
-### Work in Progress
+### Selected Work in Progress
 
-Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with James Feigenbaum and Lauren Hoehn-Velasco) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
+Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with [[James Feigenbaum]](https://jamesfeigenbaum.github.io/) and Lauren Hoehn-Velasco) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
 
 Rebuilding the State: Confederate Post Offices After the Civil War
 
