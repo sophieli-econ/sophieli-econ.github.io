@@ -34,7 +34,7 @@ Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compu
 
 ### Selected Work in Progress
 
-Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with [James Feigenbaum](https://jamesfeigenbaum.github.io/) and [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/)) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
+Germ Theory at Home: Health Information and Child Mortality during the Epidemiological Transition (with [James Feigenbaum](https://jamesfeigenbaum.github.io/) and [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/)) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
 
 Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on Physician Quality, the Health Transition, and Innovation (with [Christian Møller Dahl](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_sam/christian_moeller_dahl), [Melissa A. Thomasson](https://miamioh.edu/fsb/directory/?up=/directory/thomasma), and [Anthony Wray](https://sites.google.com/view/anthonywray/home))
 
