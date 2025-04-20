@@ -28,19 +28,19 @@ Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compu
 
 ### Selected Work in Progress
 
-Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with [[James Feigenbaum]](https://jamesfeigenbaum.github.io/) and Lauren Hoehn-Velasco) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
+Germ Theory at Home: The Role of Private Action in Reducing Child Mortality during the Epidemiological Transition (with [James Feigenbaum](https://jamesfeigenbaum.github.io/) and [Lauren Hoehn-Velasco](https://www.laurenhoehnvelasco.com/)) [[Abstract]](pdfs/GermTheory_Abstract.pdf)
 
-Rebuilding the State: Confederate Post Offices After the Civil War
-
-Gender Differences in Managerial Performance: Evidence from The Post Office
+Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on Physician Quality, the Health Transition, and Innovation (with [Christian Møller Dahl](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_sam/christian_moeller_dahl), [Melissa A. Thomasson](https://miamioh.edu/fsb/directory/?up=/directory/thomasma), and [Anthony Wray](https://sites.google.com/view/anthonywray/home))
 
 <br/>
 
 ### Teaching Experience
 
+Instructor for Statistics, University of Southern Denmark, Fall 2024, Spring 2025
+
 Instructor for Labor Economics, Boston University, Spring 2022, Spring 2023
 
-* _Gitner Prize for Excellence in Teaching Undergraduates, 2023_
+* Gitner Prize for Excellence in Teaching Undergraduates, 2023
 
 Teaching Fellow for Introduction to Microeconomics, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
 
