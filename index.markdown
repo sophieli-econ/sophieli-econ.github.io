@@ -27,7 +27,7 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 * Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023
 
 
-Returns to Education for Women in the Mid-Twentieth Century: Evidence from Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
+Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
 
 
 <br/>
