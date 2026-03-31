@@ -20,14 +20,14 @@ My CV is [here](pdfs/SophieLi_CV.pdf).
 
 ### Working Papers
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Reject and Resubmit at the Journal of Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Revise and Resubmit at Explorations in Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
 
 * IPUMS Excellence in Research Award, 2023
 
 * Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023
 
 
-Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
+Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws, _Submitted_ [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
 
 
 <br/>
@@ -41,6 +41,8 @@ Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on 
 <br/>
 
 ### Teaching Experience
+
+Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications, University of Southern Denmark, Summer 2025
 
 Instructor for Statistics, University of Southern Denmark, Fall 2024, Spring 2025
 
