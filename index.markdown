@@ -20,7 +20,7 @@ My CV is [here](pdfs/SophieLi_CV.pdf).
 
 ### Working Papers
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Conditionally Accepted at Explorations in Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Conditionally accepted at Explorations in Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
 
 * IPUMS Excellence in Research Award, 2023
 
