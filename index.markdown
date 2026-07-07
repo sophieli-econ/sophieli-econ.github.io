@@ -38,7 +38,7 @@ Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws, **
 
 Germ Theory at Home: Health Information and Child Mortality during the Epidemiological Transition (with <a href="https://jamesfeigenbaum.github.io/" target="_blank" rel="noopener noreferrer">James Feigenbaum</a> and <a href="https://www.laurenhoehnvelasco.com/" target="_blank" rel="noopener noreferrer">Lauren Hoehn-Velasco</a>) [<a href="pdfs/GermTheory_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract</a>]
 
-Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on Physician Quality, the Health Transition, and Innovation (with <a href="https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_sam/christian_moeller_dahl" target="_blank" rel="noopener noreferrer">Christian Møller Dahl</a>, <a href="https://miamioh.edu/fsb/directory/?up=/directory/thomasma" target="_blank" rel="noopener noreferrer">Melissa A. Thomasson</a>, and <a href="https://sites.google.com/view/anthonywray/home" target="_blank" rel="noopener noreferrer">Anthony Wray</a>)
+Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on Physician Quality, the Health Transition, and Innovation (with <a href="https://portal.findresearcher.sdu.dk/da/persons/christian-m%C3%B8ller-dahl/" target="_blank" rel="noopener noreferrer">Christian Møller Dahl</a>, <a href="https://miamioh.edu/fsb/directory/?up=/directory/thomasma" target="_blank" rel="noopener noreferrer">Melissa A. Thomasson</a>, and <a href="https://sites.google.com/view/anthonywray/home" target="_blank" rel="noopener noreferrer">Anthony Wray</a>)
 
 <br/>
 
