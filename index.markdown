@@ -18,14 +18,17 @@ My CV is [here](pdfs/SophieLi_CV.pdf).
 
 <br/>
 
-### Working Papers
+### Publication
 
-The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Conditionally accepted at Explorations in Economic History_ [[Draft]](pdfs/SophieLi_JMP.pdf)
+The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before WWII, _Explorations in Economic History, Volume 101, 2026_ [[Publisher Version]](https://doi.org/10.1016/j.eeh.2026.101775) [[WP Version]](pdfs/SophieLi_JMP.pdf)
 
 * IPUMS Excellence in Research Award, 2023
 
 * Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023
 
+<br/>
+
+### Working Paper
 
 Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws, _Submitted_ [[Draft]](pdfs/SophieLi_Returns_Education.pdf)
 
