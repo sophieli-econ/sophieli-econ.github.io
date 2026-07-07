@@ -34,7 +34,7 @@ Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws, **
 
 <br/>
 
-### Selected Work in Progress
+### Work in Progress
 
 Germ Theory at Home: Health Information and Child Mortality during the Epidemiological Transition (with <a href="https://jamesfeigenbaum.github.io/" target="_blank" rel="noopener noreferrer">James Feigenbaum</a> and <a href="https://www.laurenhoehnvelasco.com/" target="_blank" rel="noopener noreferrer">Lauren Hoehn-Velasco</a>) [<a href="pdfs/GermTheory_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract</a>]
 
