@@ -44,14 +44,10 @@ Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on 
 
 ### Teaching
 
-Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications, University of Southern Denmark, Summer 2025
+Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications, University of Southern Denmark, 2025-2026
 
-Instructor for Statistics, University of Southern Denmark, Fall 2024, Spring 2025
+Instructor for Statistics, University of Southern Denmark, 2024-2025
 
-Instructor for Labor Economics, Boston University, Spring 2022, Spring 2023
+Instructor for Labor Economics, Boston University, 2022-2023
 
 * Gitner Prize for Excellence in Teaching Undergraduates, 2023
-
-Teaching Fellow for Introduction to Microeconomics, Boston University, Fall 2019, Spring 2020, Spring 2021, Fall 2022
-
-Teaching Fellow for Empirical Economic Analysis, Boston University, Fall 2020, Spring 2024
