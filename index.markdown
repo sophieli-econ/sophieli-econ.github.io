@@ -30,8 +30,8 @@ Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on 
 
 ### Current Teaching
 
-International Economics (Undergraduate), University of Southern Denmark, 2026-Present
+International Economics (Undergraduate), University of Southern Denmark, Fall 2026
 
-Perspectives on Economic Behaviour (Undergraduate), University of Southern Denmark, 2026-Present
+Perspectives on Economic Behaviour (Undergraduate), University of Southern Denmark, Fall 2026
 
-Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications (Graduate), University of Southern Denmark, 2025-Present
+Historical Perspectives on Current Economics Issues: Big Data and Applications (Graduate), University of Southern Denmark, Summer 2026
