@@ -22,9 +22,9 @@ body {
 }
 
 .wrapper {
-  max-width: 640px;
+  max-width: 800px;   // width of the text column — raise for less white space on the sides
   margin: 0 auto;
-  padding: 96px 24px 120px;
+  padding: 80px 32px 120px;
 }
 
 // Links: text colour with a light underline that darkens on hover
