@@ -6,7 +6,9 @@ layout: default
 title: Sophie Li
 ---
 
-I am an Assistant Professor at the University of Southern Denmark (SDU). I hold a Ph.D. in Economics from Boston University and a B.A. in Economics from New York University and NYU Shanghai. My research fields are Economic History, Labor Economics and Economics of Gender. 
+I am an Assistant Professor at the University of Southern Denmark (SDU). I hold a Ph.D. in Economics from Boston University and a B.A. in Economics from New York University and NYU Shanghai. My research fields are Economic History, Labor Economics and Economics of Gender.
+
+**News:** I am organizing the 16th Annual Workshop on Growth, History and Development with Paul Sharp. Please see the call for paper <a href="https://www.sdu.dk/en/forskning/forskningsenheder/samf/hedg/events/16th-annual-workshop-on-growth_history-and-development" target="_blank" rel="noopener noreferrer">here</a>. The deadline for submission is January 15, 2027. 
 
 ### Publication
 
@@ -28,8 +30,8 @@ Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on 
 
 ### Current Teaching
 
-Instructor for International Economics (Undergraduate), University of Southern Denmark, 2026-Present
+International Economics (Undergraduate), University of Southern Denmark, 2026-Present
 
-Instructor for Perspectives on Economic Behaviour (Undergraduate), University of Southern Denmark, 2026-Present
+Perspectives on Economic Behaviour (Undergraduate), University of Southern Denmark, 2026-Present
 
-Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications (Graduate), University of Southern Denmark, 2025-Present
+Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications (Graduate), University of Southern Denmark, 2025-Present

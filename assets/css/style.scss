@@ -43,7 +43,7 @@ a:hover, a:focus { text-decoration-color: $text; }
 
 // Left column: photo and personal information (stays in view while scrolling)
 .sidebar {
-  flex: 0 0 240px;
+  flex: 0 0 280px;
   position: sticky;
   top: 80px;
   display: flex;
@@ -67,7 +67,7 @@ a:hover, a:focus { text-decoration-color: $text; }
 }
 .intro h1 a { text-decoration: none; }
 .intro p { margin: 0; }
-.position { color: $muted; font-size: 1rem; line-height: 1.5; }
+.position { color: $muted; font-size: 1rem; line-height: 1.5; white-space: nowrap; }
 .contact {
   margin-top: 14px !important;
   padding-top: 14px;
@@ -110,6 +110,20 @@ main ul {
 }
 main ul li { margin: 0; }
 main ul li p { margin: 0; }
+
+// News: dated one-line items
+main ul.news {
+  margin-top: 0;
+  font-style: normal;
+  color: $text;
+}
+main ul.news li { margin-bottom: 8px; }
+main ul.news strong {
+  display: inline-block;
+  min-width: 5.5em;
+  font-weight: 600;
+  color: $muted;
+}
 
 em { font-style: italic; }
 strong { font-weight: 600; }
