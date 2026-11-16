@@ -1,7 +1,7 @@
 ---
 ---
 
-// Minimal single-column style (template A — classic serif)
+// Minimal two-column style (serif, photo and details on the left)
 
 $text: #1a1a1a;
 $muted: #555555;
@@ -22,9 +22,12 @@ body {
 }
 
 .wrapper {
-  max-width: 800px;   // width of the text column — raise for less white space on the sides
+  max-width: 1080px;   // overall page width — raise for less white space on the sides
   margin: 0 auto;
-  padding: 80px 32px 120px;
+  padding: 80px 40px 120px;
+  display: flex;
+  align-items: flex-start;
+  gap: 72px;
 }
 
 // Links: text colour with a light underline that darkens on hover
@@ -38,40 +41,51 @@ a {
 }
 a:hover, a:focus { text-decoration-color: $text; }
 
-// Header
-.site-header {
+// Left column: photo and personal information (stays in view while scrolling)
+.sidebar {
+  flex: 0 0 240px;
+  position: sticky;
+  top: 80px;
   display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 28px;
-  margin-bottom: 56px;
+  flex-direction: column;
+  gap: 20px;
 }
 .portrait {
   display: block;
-  width: 104px;
-  height: 104px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center 20%;
 }
 .intro h1 {
-  margin: 0 0 4px;
-  font-size: 2.25rem;
+  margin: 0 0 6px;
+  font-size: 1.875rem;
   font-weight: 600;
   line-height: 1.15;
   letter-spacing: -0.01em;
 }
 .intro h1 a { text-decoration: none; }
 .intro p { margin: 0; }
-.position { color: $muted; }
+.position { color: $muted; font-size: 1rem; line-height: 1.5; }
 .contact {
-  margin-top: 6px !important;
+  margin-top: 14px !important;
+  padding-top: 14px;
+  border-top: 1px solid #e5e5e5;
   font-size: 1rem;
   display: flex;
-  flex-wrap: wrap;
-  gap: 18px;
+  flex-direction: column;
+  gap: 4px;
 }
 .contact span { color: $muted; }
+
+// Right column: page content
+main {
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 720px;
+}
+main > :first-child { margin-top: 0; }
 
 // Content
 p, ul, ol, blockquote { margin: 0 0 14px; }
@@ -117,17 +131,25 @@ hr {
   margin: 40px 0;
 }
 
-// Phones
+// Tablets and phones: photo and name move above the content
+@media (max-width: 800px) {
+  .wrapper { flex-direction: column; gap: 40px; padding: 56px 24px 80px; }
+  .sidebar { position: static; flex: none; flex-direction: row; align-items: center; flex-wrap: wrap; gap: 24px; }
+  .portrait { width: 96px; height: 96px; }
+  .contact { flex-direction: row; gap: 18px; border-top: 0; padding-top: 0; margin-top: 6px !important; }
+  main { max-width: none; }
+}
+
 @media (max-width: 480px) {
   body { font-size: 1.0625rem; }
-  .wrapper { padding: 56px 20px 80px; }
-  .site-header { gap: 20px; margin-bottom: 40px; }
-  .portrait { width: 88px; height: 88px; }
-  .intro h1 { font-size: 1.875rem; }
+  .wrapper { padding: 48px 20px 72px; }
+  .portrait { width: 84px; height: 84px; }
+  .intro h1 { font-size: 1.75rem; }
   main h2, main h3 { margin-top: 44px; }
 }
 
 @media print {
-  .wrapper { padding: 0; max-width: none; }
+  .wrapper { padding: 0; max-width: none; display: block; }
+  .sidebar { position: static; margin-bottom: 32px; }
   a { text-decoration: none; }
 }

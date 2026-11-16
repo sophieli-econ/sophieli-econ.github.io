@@ -12,7 +12,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header class="site-header">
+      <aside class="sidebar">
         {% if site.logo %}
           <a href="{{ "/" | relative_url }}"><img class="portrait" src="{{ site.logo | relative_url }}" alt="Portrait of {{ site.title }}"></a>
         {% endif %}
@@ -24,7 +24,7 @@
             {% if site.email_display %}<span>{{ site.email_display }}</span>{% endif %}
           </p>
         </div>
-      </header>
+      </aside>
 
       <main>
         {{ content }}

@@ -6,9 +6,7 @@ layout: default
 title: Sophie Li
 ---
 
-I am an Assistant Professor in Economic History at the University of Southern Denmark (SDU). My research fields are Economic History, Labor Economics and Economics of Gender. 
-
-I hold a Ph.D. in Economics from Boston University and a B.A. in Economics from New York University and NYU Shanghai.
+I am an Assistant Professor at the University of Southern Denmark (SDU). I hold a Ph.D. in Economics from Boston University and a B.A. in Economics from New York University and NYU Shanghai. My research fields are Economic History, Labor Economics and Economics of Gender. 
 
 ### Publication
 
@@ -28,12 +26,10 @@ Germ Theory at Home: Health Information and Child Mortality during the Epidemiol
 
 Wartime Medical Education and Disruptions to Physician Labor Supply: Impacts on Physician Quality, the Health Transition, and Innovation (with <a href="https://portal.findresearcher.sdu.dk/da/persons/christian-m%C3%B8ller-dahl/" target="_blank" rel="noopener noreferrer">Christian Møller Dahl</a>, <a href="https://miamioh.edu/fsb/directory/?up=/directory/thomasma" target="_blank" rel="noopener noreferrer">Melissa A. Thomasson</a>, and <a href="https://sites.google.com/view/anthonywray/home" target="_blank" rel="noopener noreferrer">Anthony Wray</a>)
 
-### Teaching
+### Current Teaching
 
-Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications, University of Southern Denmark, 2025-2026
+Instructor for International Economics (Undergraduate), University of Southern Denmark, 2026-Present
 
-Instructor for Statistics, University of Southern Denmark, 2024-2025
+Instructor for Perspectives on Economic Behaviour (Undergraduate), University of Southern Denmark, 2026-Present
 
-Instructor for Labor Economics, Boston University, 2022-2023
-
-* Gitner Prize for Excellence in Teaching Undergraduates, 2023
+Instructor for Summer School - Historical Perspectives on Current Economics Issues: Big Data and Applications (Graduate), University of Southern Denmark, 2025-Present
