@@ -20,7 +20,9 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 
 ### Working Paper
 
-Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws, **_Submitted_** [<a href="pdfs/SophieLi_Returns_Education.pdf" target="_blank" rel="noopener noreferrer">Draft</a>]
+Schooled for Marriage or for Work? Compulsory Schooling, Family Background, and Women's Returns to Education [<a href="pdfs/SophieLi_Returns_Education.pdf" target="_blank" rel="noopener noreferrer">Draft</a>]
+
+* Previously circulated as "Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws"
 
 ### Work in Progress
 
