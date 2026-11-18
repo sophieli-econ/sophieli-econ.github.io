@@ -24,6 +24,8 @@ Schooled for Marriage or for Work? Compulsory Schooling, Family Background, and 
 
 * Previously circulated as "Returns to Education for Women: Evidence from U.S. Compulsory Schooling Laws"
 
+The American Medical Directory Panel: Comparing AI-Assisted and LLM Transcription with Manual Data Entry at Scale (with <a href="https://portal.findresearcher.sdu.dk/da/persons/christian-m%C3%B8ller-dahl/" target="_blank" rel="noopener noreferrer">Christian Møller Dahl</a>, <a href="https://portal.findresearcher.sdu.dk/da/persons/rasmusen/" target="_blank" rel="noopener noreferrer">Rasmus Emil Nyholm</a>, <a href="https://portal.findresearcher.sdu.dk/da/persons/mup/" target="_blank" rel="noopener noreferrer">Maja U. Pedersen</a>, and <a href="https://sites.google.com/view/anthonywray/home" target="_blank" rel="noopener noreferrer">Anthony Wray</a>) [<a href="pdfs/amd_data_note_2026_v1.pdf" target="_blank" rel="noopener noreferrer">Draft</a>] [<a href="https://anthonywray.github.io/amd-site/" target="_blank" rel="noopener noreferrer">Project Website</a>]
+
 ### Work in Progress
 
 Germ Theory at Home: Health Information and Child Mortality during the Epidemiological Transition (with <a href="https://jamesfeigenbaum.github.io/" target="_blank" rel="noopener noreferrer">James Feigenbaum</a> and <a href="https://www.laurenhoehnvelasco.com/" target="_blank" rel="noopener noreferrer">Lauren Hoehn-Velasco</a>) [<a href="pdfs/GermTheory_Abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract</a>]
