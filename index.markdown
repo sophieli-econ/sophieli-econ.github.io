@@ -18,7 +18,7 @@ The Effect of a Woman-Friendly Occupation on Employment: U.S. Postmasters Before
 
 * Rosenstein-Rodan Prize for Best Graduate Student Paper, Boston University, 2023
 
-### Working Paper
+### Working Papers
 
 Schooled for Marriage or for Work? Compulsory Schooling, Family Background, and Women's Returns to Education [<a href="pdfs/SophieLi_Returns_Education.pdf" target="_blank" rel="noopener noreferrer">Draft</a>]
 
